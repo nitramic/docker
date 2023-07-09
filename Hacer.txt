@@ -8,5 +8,8 @@ Docker compose para:
                     VPN(?)
                     metricas Grafana
                     metricas NewRelic
+                    Prometheus?
                     Zabbix (?)
+
+Tomar Files de un repo propio?
                     
