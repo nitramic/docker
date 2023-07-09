@@ -1,0 +1,12 @@
+Docker compose para: 
+                    registry
+                    postgres
+                    mssql
+                    tomcat app
+                    tomcat apache front?
+                    portainer
+                    VPN(?)
+                    metricas Grafana
+                    metricas NewRelic
+                    Zabbix (?)
+                    
