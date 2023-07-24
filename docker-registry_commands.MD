@@ -23,3 +23,6 @@ sha256:6de813fb93debd551ea6781e90b02f1f93efab9d882a6cd06bbd96a07188b073
 Correr este comando en el contenedor de docker registry:
 
 $ registry garbage-collect /etc/docker/registry/config.yml
+
+## Docker build
+https://docs.docker.com/engine/reference/commandline/build/
